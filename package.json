@@ -12,7 +12,7 @@
     "express": "~4.9.0",
     "morgan": "~1.2.2",
     "body-parser": "~1.5.2",
-    "mongoose": "~3.8.14",
+    "mongoose": "~5.8.3",
     "async": "~0.9.0",
     "debug": "~2.0.0"
   },
